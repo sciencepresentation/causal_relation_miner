@@ -1,6 +1,6 @@
 # Causal Relationship Miner
 
-![Demo](presentations/video_2025-12-01_11-52-49.gif)
+![Demo](video_2025-12-01_11-52-49.gif)
 
 Extract cause–effect relationships from PDF documents with a simple web app.
 
