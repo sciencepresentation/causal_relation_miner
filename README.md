@@ -13,7 +13,7 @@ Extract cause–effect relationships from PDF documents with a simple web app.
 - OR use Git (in PowerShell):
 
 ```powershell
-git clone https://github.com/rasoulnorouzi/causal_relation_miner.git
+git clone https://github.com/sciencepresentation/causal_relation_miner.git
 cd causal_relation_miner
 ```
 
